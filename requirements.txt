@@ -1,0 +1,14 @@
+langchain
+langchain_openai
+langchain_classic
+langchain_community
+openai
+python-dotenv
+streamlit
+transformers
+langchain_huggingface
+torch
+sentence_transformers
+langgraph
+langgraph.checkpoint.sqlite
+ddgs
